@@ -6,7 +6,7 @@ import jakarta.validation.constraints.NotBlank;
 
 @Entity
 @Data
-@Table(name="student")
+@Table(name="students")
 public class Student {
 
     @Id
